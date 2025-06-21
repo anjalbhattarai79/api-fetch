@@ -1,0 +1,11 @@
+recipe no.,title,readyInMinutes,vegetarian,veryPopular,healthScore
+1,Asparagus and Pea Soup: Real Convenience Food,20,True,False,100.0
+2,Garlicky Kale,45,True,False,83.0
+3,Red Kidney Bean Jambalaya,45,True,False,96.0
+4,"Cauliflower, Brown Rice, and Vegetable Fried Rice",30,True,True,51.0
+5,Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries,45,True,False,100.0
+6,Easy Homemade Rice and Beans,35,True,True,60.0
+7,Tuscan White Bean Soup with Olive Oil and Rosemary,45,True,False,94.0
+8,Crunchy Brussels Sprouts Side Dish,30,True,False,100.0
+9,Broccolini Quinoa Pilaf,30,True,False,74.0
+10,Farro With Mushrooms and Asparagus,75,True,False,80.0
